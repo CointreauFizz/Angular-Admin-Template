@@ -23,7 +23,6 @@ import { BreadcrumbsComponent } from './breadcrumbs/breadcrumbs.component';
 import { PaginationComponent } from './pagination/pagination.component';
 import { DropdownComponent } from './dropdown/dropdown.component';
 import { TooltipsComponent } from './tooltips/tooltips.component';
-import { CarouselComponent } from './carousel/carousel.component';
 import { TabsComponent } from './tabs/tabs.component';
 
 @NgModule({
@@ -45,7 +44,6 @@ import { TabsComponent } from './tabs/tabs.component';
     PaginationComponent,
     DropdownComponent,
     TooltipsComponent,
-    CarouselComponent,
     TabsComponent
   ],
   imports: [

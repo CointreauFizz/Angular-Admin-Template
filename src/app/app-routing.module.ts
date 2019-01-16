@@ -14,7 +14,6 @@ import { BreadcrumbsComponent } from './breadcrumbs/breadcrumbs.component';
 import { PaginationComponent } from './pagination/pagination.component';
 import { DropdownComponent } from './dropdown/dropdown.component';
 import { TooltipsComponent } from './tooltips/tooltips.component';
-import { CarouselComponent } from './carousel/carousel.component';
 import { TabsComponent } from './tabs/tabs.component';
 
 const routes: Routes = [
@@ -32,7 +31,6 @@ const routes: Routes = [
   { path: 'pagination', component: PaginationComponent },
   { path: 'dropdowns', component: DropdownComponent },
   { path: 'tooltips', component: TooltipsComponent },
-  { path: 'carousel', component: CarouselComponent },
   { path: 'tabs', component: TabsComponent }
 ];
 
