@@ -3,7 +3,6 @@ import { RouterModule, Routes } from '@angular/router';
 
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { FormsComponent } from './forms/forms.component';
-import { ButtonsComponent } from './buttons/buttons.component';
 import { TablesComponent } from './tables/tables.component';
 import { IconsComponent } from './icons/icons.component';
 import { TypographyComponent } from './typography/typography.component';
@@ -22,7 +21,6 @@ const routes: Routes = [
   { path: '', redirectTo: '/dashboard', pathMatch: 'full' },
   { path: 'dashboard', component: DashboardComponent },
   { path: 'forms', component: FormsComponent },
-  { path: 'buttons', component: ButtonsComponent },
   { path: 'tables', component: TablesComponent },
   { path: 'icons', component: IconsComponent },
   { path: 'typography', component: TypographyComponent },

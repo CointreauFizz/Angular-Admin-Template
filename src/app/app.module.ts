@@ -12,7 +12,6 @@ import { SidebarComponent } from './sidebar/sidebar.component';
 import { FooterComponent } from './footer/footer.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { FormsComponent } from './forms/forms.component';
-import { ButtonsComponent } from './buttons/buttons.component';
 import { TablesComponent } from './tables/tables.component';
 import { TypographyComponent } from './typography/typography.component';
 import { IconsComponent } from './icons/icons.component';
@@ -35,7 +34,6 @@ import { TabsComponent } from './tabs/tabs.component';
     FooterComponent,
     DashboardComponent,
     FormsComponent,
-    ButtonsComponent,
     TablesComponent,
     TypographyComponent,
     IconsComponent,
