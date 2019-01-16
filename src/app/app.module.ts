@@ -14,7 +14,6 @@ import { DashboardComponent } from './dashboard/dashboard.component';
 import { FormsComponent } from './forms/forms.component';
 import { ButtonsComponent } from './buttons/buttons.component';
 import { TablesComponent } from './tables/tables.component';
-import { TypographyComponent } from './typography/typography.component';
 import { IconsComponent } from './icons/icons.component';
 import { AlertsComponent } from './alerts/alerts.component';
 import { AccordionsComponent } from './accordions/accordions.component';
@@ -37,7 +36,7 @@ import { TabsComponent } from './tabs/tabs.component';
     FormsComponent,
     ButtonsComponent,
     TablesComponent,
-    TypographyComponent,
+
     IconsComponent,
     AlertsComponent,
     AccordionsComponent,
