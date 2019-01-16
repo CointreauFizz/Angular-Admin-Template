@@ -13,11 +13,8 @@ import { FooterComponent } from './footer/footer.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { FormsComponent } from './forms/forms.component';
 import { TablesComponent } from './tables/tables.component';
-import { TypographyComponent } from './typography/typography.component';
-import { IconsComponent } from './icons/icons.component';
 import { AlertsComponent } from './alerts/alerts.component';
 import { AccordionsComponent } from './accordions/accordions.component';
-import { BadgesComponent } from './badges/badges.component';
 import { ProgressbarComponent } from './progressbar/progressbar.component';
 import { BreadcrumbsComponent } from './breadcrumbs/breadcrumbs.component';
 import { PaginationComponent } from './pagination/pagination.component';
@@ -34,11 +31,8 @@ import { TabsComponent } from './tabs/tabs.component';
     DashboardComponent,
     FormsComponent,
     TablesComponent,
-    TypographyComponent,
-    IconsComponent,
     AlertsComponent,
     AccordionsComponent,
-    BadgesComponent,
     ProgressbarComponent,
     BreadcrumbsComponent,
     PaginationComponent,
