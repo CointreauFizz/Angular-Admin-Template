@@ -13,11 +13,8 @@ import { FooterComponent } from './footer/footer.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 import { FormsComponent } from './forms/forms.component';
 import { TablesComponent } from './tables/tables.component';
-import { AlertsComponent } from './alerts/alerts.component';
 import { AccordionsComponent } from './accordions/accordions.component';
 import { ProgressbarComponent } from './progressbar/progressbar.component';
-import { BreadcrumbsComponent } from './breadcrumbs/breadcrumbs.component';
-import { PaginationComponent } from './pagination/pagination.component';
 import { DropdownComponent } from './dropdown/dropdown.component';
 import { TooltipsComponent } from './tooltips/tooltips.component';
 import { TabsComponent } from './tabs/tabs.component';
@@ -31,11 +28,8 @@ import { TabsComponent } from './tabs/tabs.component';
     DashboardComponent,
     FormsComponent,
     TablesComponent,
-    AlertsComponent,
     AccordionsComponent,
     ProgressbarComponent,
-    BreadcrumbsComponent,
-    PaginationComponent,
     DropdownComponent,
     TooltipsComponent,
     TabsComponent
