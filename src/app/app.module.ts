@@ -15,7 +15,6 @@ import { FormsComponent } from './forms/forms.component';
 import { AccordionsComponent } from './accordions/accordions.component';
 import { ProgressbarComponent } from './progressbar/progressbar.component';
 import { DropdownComponent } from './dropdown/dropdown.component';
-import { TooltipsComponent } from './tooltips/tooltips.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +27,6 @@ import { TooltipsComponent } from './tooltips/tooltips.component';
     AccordionsComponent,
     ProgressbarComponent,
     DropdownComponent,
-    TooltipsComponent,
   ],
   imports: [
     BrowserModule,
