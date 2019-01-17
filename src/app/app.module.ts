@@ -11,7 +11,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { SidebarComponent } from './sidebar/sidebar.component';
 import { FooterComponent } from './footer/footer.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
-import { FormsComponent } from './forms/forms.component';
+import { productComponent } from './product/product.component';
 import { AccordionsComponent } from './accordions/accordions.component';
 import { ProgressbarComponent } from './progressbar/progressbar.component';
 import { DropdownComponent } from './dropdown/dropdown.component';
@@ -23,7 +23,7 @@ import { DropdownComponent } from './dropdown/dropdown.component';
     SidebarComponent,
     FooterComponent,
     DashboardComponent,
-    FormsComponent,
+    productComponent,
     AccordionsComponent,
     ProgressbarComponent,
     DropdownComponent,
